@@ -85,7 +85,7 @@ Users must provide their own OpenAI API key in the `.streamlit/secrets.toml` fil
 
 ## 👨‍💻 Author
 
-Sai Kiran  
+**G.Sai Kiran**
 
 ---
 
