@@ -37,7 +37,7 @@ README.md           # Project documentation
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/ai-data-analyst.git  
+git clone https://github.com/saikirangaddamidi70-eng/ai-data-analyst.git  
 cd ai-data-analyst  
 
 ### 2. Install dependencies
